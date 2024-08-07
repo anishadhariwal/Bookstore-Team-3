@@ -218,6 +218,7 @@ body {
     margin-top: 18px;
     margin-left: 120px;
     color:#735B58;
+    display: flex;
   }
 
   .mailing {
