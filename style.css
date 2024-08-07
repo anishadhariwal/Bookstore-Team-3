@@ -197,10 +197,6 @@ body {
     background: lightcyan;
   }
   
-  footer {
-    background: #EEE8DA;;
-  }
-  
   /* Trick: */
   body {
     position: relative;
@@ -217,12 +213,11 @@ body {
     font-family: "radley", serif;
     margin-top: 18px;
     margin-left: 120px;
-    color:#735B58;
+    color: #735B58;
   }
 
   .mailing {
     margin-top: -7px;
-    display: flex;
   }
 
   .email {
@@ -261,4 +256,5 @@ body {
     bottom: 0;
     width: 100%;
     height: 74px;
+    background: #EEE8DA;
   }
